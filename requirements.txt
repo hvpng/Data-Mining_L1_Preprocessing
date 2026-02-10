@@ -1,8 +1,13 @@
-NumPy
-Pandas
-Matplotlib
-Seaborn
+numpy
+pandas
+matplotlib
+seaborn
 scikit-learn
-OpenCV/PIL
-NLTK
-spaCy
+opencv-python
+nltk
+spacy>=3.7
+en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1.tar.gz
+gensim
+torch>=2.4.0
+transformers>=4.35.0
+sentence-transformers>=2.5.0
